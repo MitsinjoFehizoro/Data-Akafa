@@ -1,202 +1,51 @@
 [
 	{
-		"title": "Décidé",
+		"title": "Mahereza rahalahy",
 		"lyrics": [
-			{
-				"key": "1.",
-				"value": [
-					"Aza ilaozanao za Jesoa",
-					"Fa very raha lavitra anao",
-					"Fiainako tsy manjarizary igny e !",
-					"Ok izy kô fa teo Ianao",
-					"Sômasôma, la vie jiaby vitako",
-					"Tsy ni-porté bohneur raika ho ahy",
-					"Vantany velon’aina zà Baba e !",
-					"Hipody Aminao ‘zaho ô !"
-				]
-			},
 			{
 				"key": "ref",
 				"value": [
-					"Décidé zà niany niany e !",
-					"Oh ! Paré zà fa ho any !",
-					"Hanaraka Anao tsy haditra zaho",
-					"jusqu’à hatrany",
-					"O ! dinaiso zà fa hoavy e !",
-					"O ! rambeso fa havanao e !",
-					"Objectif tsika dia izao ihany :",
-					"Arrivé an-danitra any e !"
+					"Mahereza rahalahy aza kivy fa",
+					"Ny Tomponao hiady ho anao",
+					"Mitsangana vitao ireo asanao",
+					"Jesoa tsy mba mandao!"
+				]
+			},
+			{
+				"key": "1.",
+				"value": [
+					"Maro ireo olana manjo",
+					"Ka mila andreraka ny fonao",
+					"Dia tsarovy f'efa misy any ho any",
+					"Ilay Jesoa ! Izay tsy miova",
+					"Ho famonjena anao"
 				]
 			},
 			{
 				"key": "2.",
 				"value": [
-					"‘Reo camarade mpiaraka aminà",
-					"Hivolagnako raha tsara Anao o !",
-					"Fitiavanao tsy misy lera",
-					"Hoan’izay mahatoky ka mino ô !",
-					"Izay rehetra miaraka Aminao",
-					"Voavaha jiaby problème-n’azy e !",
-					"Tsika jiaby samy hilaza hoe",
-					"Hipody aminao Jesoa !"
-				]
-			}
-		],
-		"isPartition": true,
-		"author": "A/C : RAKOTOARIVELO Samson",
-		"type": [
-			1,
-			5
-		]
-	},
-	{
-		"title": "Derao derao",
-		"lyrics": [
-			{
-				"key": "1.",
-				"value": [
-					"Derao derao Jesoa, hobio sy ankalazao",
-					"Fa mendrika ho deraina e! ilay Mpamonjy tsitoha",
-					"Famonjena ho ahy, famonjena ho anao",
-					"Ilay natolony, ka izaho sy ianao",
-					"Samy ho voavonjy avokoa",
-					"Fa ‘lay rany soa, hanadio tokoa ho an’ny olona niova fo"
-				]
-			},
-			{
-				"key": "ref",
-				"value": [
-					"Mitsangana, mandehana torio ka hambarao",
-					"Fa miandry ilay tanana",
-					"Nampanantenaina ho ahy sy ho anao",
-					"Izy Tompo no miteny handray ireo izay madio",
-					"Madio tamin’ny ran’i Kristy"
-				]
-			},
-			{
-				"key": "2.",
-				"value": [
-					"Derao derao Jesoa, hobio sy ankalazao",
-					"Dia ilazao sy ambarao izao tontolo izao",
-					"Mbola miandry anie ilay Jesoa be fitia",
-					"Miala nenina amiko sy ianao",
-					"Mba tsy hisy ho very fa samy handova",
-					"Ilay fiainana iray, ilay mandrakizay"
-				]
-			}
-		],
-		"isPartition": false,
-		"author": "A/C : RAKOTOARIVELO Samson",
-		"type": [
-			1,
-			5
-		]
-	},
-	{
-		"title": "Fa aminao no iposahan'i Jehovah",
-		"lyrics": [
-			{
-				"key": "1.",
-				"value": [
-					"Fa aminao kosa no iposahan’i Jehovah no iposahan’i Jehovah",
-					"Ary aminao no isehon’ny voninahiny no isehon’ny voninahiny",
-					"Ny voninahiny",
-					"Ary aminao, ary aminao, ary aminao",
-					"No isehon’ny voninahiny",
-					"Fa aminao kosa, fa aminao kosa, fa aminao koa",
-					"No iposahan’i Jehovah"
-				]
-			}
-		],
-		"isPartition": true,
-		"author": "A/C : RABAKORALAMBONIRINA Jean Jacques",
-		"type": [
-			1
-		]
-	},
-	{
-		"title": "Fa mahery",
-		"lyrics": [
-			{
-				"key": "1.",
-				"value": [
-					"Vavolombelona ianao torio lazao ary ambarao",
-					"Jesoa filazantsara soa famonjena ho ahy sy ho anao",
-					"Finoana tsara ao aminao no ento re ka ampiasao",
-					"Koa miasà aza manahy fa Jehovah homba anao"
-				]
-			},
-			{
-				"key": "ref",
-				"value": [
-					"Mahery fa mahery ny manana an’i Jesoa",
-					"Mahatoky ho mpandresy miaina amin’ny fanantenana",
-					"Miasa am-pinoana ho voninahitry ny Ray",
-					"Miravoa hatrany hatrany satria miahy ‘lay Jesoa tia"
-				]
-			},
-			{
-				"key": "2.",
-				"value": [
-					"Fa efa voafidy ianao efa nantsoin’ny Ray Tsitoha",
-					"Tsy ho ampitso fa izao ho an’izao tontolo izao",
-					"‘Zay miasa am-pitiavana no sitrak’Andriamanitra",
-					"Izay rehetra vitanao dia ataovy an-tsitrapo"
+					"Mila ho kivy va ianao",
+					"Ka tsy mba mahita fifaliana",
+					"Very toky tsy mba manan-kantenaina intsony",
+					"Jesoa ilay tsy miova",
+					"Ho famonjena anao"
 				]
 			},
 			{
 				"key": "3.",
 				"value": [
-					"Mifanolora tanana ka omeo ‘reo tsy manana",
-					"Fa efa nomena ianao nandray ‘lay fahasoavana",
-					"Isika hiasa tsy manahy mandroso hatrany tena sahy",
-					"Andriamanitra tsy miova anio mandrakizay"
+					"Tsy vahaolana tokoa",
+					"Ny miverin-dalana amin'finoana",
+					"Ka aza mierika na miovaova intsony izao fa…",
+					"Jesoa ilay tsy miova",
+					"Ho famonjena anao"
 				]
 			}
 		],
 		"isPartition": true,
 		"author": "A/C : RAKOTOARIVELO Samson",
 		"type": [
-			1
-		]
-	},
-	{
-		"title": "Fa sambatra",
-		"lyrics": [
-			{
-				"key": "ref",
-				"value": [
-					"Fa sambatra e! izay manana Anao",
-					"Noho ny soa nomenao hatrizao",
-					"Fa ao aminao ihany re! Raiko o!",
-					"No misy ilay fahasambaram-be"
-				]
-			},
-			{
-				"key": "1.",
-				"value": [
-					"Ny zazakely aza nomenao izay sahaza",
-					"Anjara famonjena, nomenao fahendrena",
-					"Ny teninao mahery mampianatra azy ireny",
-					"Hahafantatra fa Ianao irery hatramin’izao",
-					"‘Lay tokana afaka hanome izay fifaliana ho azy"
-				]
-			},
-			{
-				"key": "2.",
-				"value": [
-					"Ny olona rehetra mahatsiaro fa voafetra",
-					"Izay fahalalany hay misy farany ihany",
-					"Mikatsaka hatrany ny harena soa an’ny tany",
-					"Tsy ampy anefa ireny hahasambatra azy",
-					"Fa Ianao tokana afaka hanome izay fifaliana ho azy"
-				]
-			}
-		],
-		"isPartition": false,
-		"author": "A/C : RAKOTOARIVELO Samson",
-		"type": [
-			1
+			7
 		]
 	}
 ]
